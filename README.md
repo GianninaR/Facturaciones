@@ -8,3 +8,4 @@
 - Proveedores
 - Inventario
 - Usuarios
+- Facturación
